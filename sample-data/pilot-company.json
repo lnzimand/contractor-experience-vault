@@ -1,0 +1,105 @@
+{
+  "organization": {
+    "name": "Khanya Electrical & Projects",
+    "registrationNumber": "DEMO-ONLY",
+    "description": "Fake demonstration company for Contractor Experience Vault.",
+    "email": "demo@example.invalid",
+    "phone": "+27 00 000 0000",
+    "website": "https://example.invalid",
+    "address": "Johannesburg, Gauteng"
+  },
+  "projects": [
+    {
+      "title": "ABC Manufacturing Electrical Distribution Upgrade",
+      "clientName": "ABC Manufacturing (Demo)",
+      "location": "Midrand, Gauteng",
+      "contractValue": 840000,
+      "currency": "ZAR",
+      "status": "completed",
+      "scope": "Replacement and commissioning of electrical distribution equipment, cabling and testing.",
+      "evidence": [
+        "appointment_letter",
+        "purchase_order",
+        "completion_certificate",
+        "after_photo"
+      ]
+    },
+    {
+      "title": "Rosebank Office Park Backup Power Installation",
+      "clientName": "Rosebank Office Park (Demo)",
+      "location": "Rosebank, Gauteng",
+      "contractValue": 1250000,
+      "currency": "ZAR",
+      "status": "completed",
+      "scope": "Supply, installation, testing and commissioning of backup power infrastructure.",
+      "evidence": [
+        "contract",
+        "completion_certificate",
+        "reference_letter",
+        "progress_photo",
+        "after_photo"
+      ]
+    },
+    {
+      "title": "Midrand Logistics Warehouse LED Retrofit",
+      "clientName": "Midrand Logistics (Demo)",
+      "location": "Midrand, Gauteng",
+      "contractValue": 430000,
+      "currency": "ZAR",
+      "status": "completed",
+      "scope": "Warehouse lighting retrofit including removal, installation, testing and final handover.",
+      "evidence": [
+        "purchase_order",
+        "invoice",
+        "after_photo"
+      ]
+    },
+    {
+      "title": "Germiston Retail Centre CCTV and Access Control",
+      "clientName": "Germiston Retail Centre (Demo)",
+      "location": "Germiston, Gauteng",
+      "contractValue": 680000,
+      "currency": "ZAR",
+      "status": "completed",
+      "scope": "CCTV and access-control installation across retail and back-office areas.",
+      "evidence": [
+        "appointment_letter",
+        "completion_certificate",
+        "before_photo",
+        "after_photo"
+      ]
+    },
+    {
+      "title": "Centurion Industrial Park Generator Installation",
+      "clientName": "Centurion Industrial Park (Demo)",
+      "location": "Centurion, Gauteng",
+      "contractValue": 920000,
+      "currency": "ZAR",
+      "status": "completed",
+      "scope": "Generator installation, cabling, changeover integration, testing and commissioning.",
+      "evidence": [
+        "contract",
+        "purchase_order",
+        "completion_certificate",
+        "reference_letter",
+        "after_photo"
+      ]
+    },
+    {
+      "title": "Soweto Community Centre Solar Backup System",
+      "clientName": "Soweto Community Centre (Demo)",
+      "location": "Soweto, Gauteng",
+      "contractValue": 360000,
+      "currency": "ZAR",
+      "status": "completed",
+      "scope": "Solar backup installation supporting lighting, security and essential loads.",
+      "evidence": [
+        "appointment_letter",
+        "completion_certificate",
+        "progress_photo",
+        "after_photo"
+      ]
+    }
+  ],
+  "warning": "All organizations, clients, project values and project details in this file are fictional demonstration data."
+}
